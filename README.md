@@ -31,7 +31,7 @@ A full-stack **Sales Management System** built with React + Node.js + MySQL, fea
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/sales-management-system.git
+git clone [https://github.com/YOUR_/sales-management-system.git](https://github.com/AYU-17/sales-management-system.git)
 cd sales-management-system
 ```
 
