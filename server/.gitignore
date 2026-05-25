@@ -1,0 +1,28 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Uploaded files (user images, documents)
+uploads/
+public/uploads/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+
+# Generated PDFs/invoices
+invoices/
+*.pdf
